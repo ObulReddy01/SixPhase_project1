@@ -1,0 +1,6 @@
+id,name,department,salary
+101,John Doe,IT,60000
+102,Jane Smith,HR,55000
+103,Bob Lee,IT,62000
+104,Invalid,Data,abc
+105,Alice Brown,Finance,59000
